@@ -1,5 +1,5 @@
 ## xUtils3简介
-* xUtils 包含了很多实用的android工具.
+* xUtils 包含了很多实用android工具.
 * xUtils 支持超大文件(超过2G)上传，更全面的http请求协议支持(11种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响...
 * xUtils 最低兼容Android 4.0 (api level 14). ([Android 2.3?](https://github.com/wyouflf/xUtils3/issues/8))
 * xUtils3变化较多所以建立了新的项目不在旧版(github.com/wyouflf/xUtils)上继续维护, 相对于旧版本:
